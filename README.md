@@ -24,7 +24,9 @@ The connector script can be used within Google Apps Script to build a Datastudio
 
 [Use the Multi index searches connector](https://datastudio.google.com/u/0/datasources/create?connectorId=AKfycbzGmBnAubWnJu3tTeemJ_FVE01SktAX2jsbiQXyhWs0NXAld5u9qipYedA4xdM18nEqjA)
 
-[Demo of the Multi index searches](https://share.getcloudapp.com/xQuA5qYd)
+[Use the Multi index trends connector](https://datastudio.google.com/u/0/datasources/create?connectorId=AKfycbxtzigBwaAiI2dk4zUFx64SQxZ-re9VoUgm6idEgJticw9MzSRUk3nOAKEcaq8c8jfJVw)
+
+[Demo video - Multi index searches](https://share.getcloudapp.com/xQuA5qYd)
 
 ## Disclaimer
 Algolia developed the enclosed custom code for experimental purposes. CUSTOM CODE IS PROVIDED “AS IS” AND “AS AVAILABLE” WITHOUT ANY WARRANTY OF ANY KIND. ALGOLIA DISCLAIMS ALL OBLIGATION AND LIABILITY UNDER THE APPLICABLE SUBSCRIPTION DOCUMENTS FOR ANY HARM OR DAMAGE ARISING OUT OF OR IN CONNECTION WITH CUSTOM CODE.
