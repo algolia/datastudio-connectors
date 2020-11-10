@@ -41,7 +41,7 @@ function getConfig() {
     .newTextInput()
     .setId("region")
     .setName(
-      "Enter the analytics region"
+      "Enter the analytics region (us or de)"
     );
 
   config.setDateRangeRequired(true);
